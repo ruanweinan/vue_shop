@@ -1,7 +1,7 @@
 <template>
  <div>
    <h2>
-     <button>click</button>
+     <input type="text" name="" id="">
    </h2>
  </div>
 </template>
