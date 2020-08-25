@@ -1,7 +1,7 @@
 <template>
  <div>
    <h2>
-     <input type="text" name="" id="">
+     <div>123</div>
    </h2>
  </div>
 </template>
